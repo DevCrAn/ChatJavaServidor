@@ -1,0 +1,27 @@
+# Compilados Java
+*.class
+
+# Archivos de log
+*.log
+
+# Directorios de NetBeans
+nbproject/private/
+build/
+dist/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+
+# Archivos de NetBeans específicos de usuario
+nbactions.xml
+nb-configuration.xml
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
